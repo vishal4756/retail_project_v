@@ -27,7 +27,7 @@ section_subtitle: "We are a group of people working in different organisations, 
 
 features: 
   
-  image: ["images/icon_1.png", "images/icon_2.png", "images/icon_3.png", "images/icon_4.png"]
+  image: ["images/icon_1.png", "images/icon_2.png", "images/icon_3.png", "images/icon_5.png"]
   
   title: ["The Experts", "Zero Marketing", "Individual Ownership", "Hundreds of successful stories"]
   
